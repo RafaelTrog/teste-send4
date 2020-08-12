@@ -5,6 +5,7 @@ import Infos from './components/Info'
 function App() {
   return (
     <>
+      <Infos />
     </>
   );
 }

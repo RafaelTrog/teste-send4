@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import logoSend4 from '../send4.jpg'
+import logoSend4 from '../assets/send4.jpg'
 
 const InfosStyle = styled.div`
     width: 600px;
@@ -15,7 +15,7 @@ const InfosStyle = styled.div`
     overflow: hidden;
     padding: 0 30px;
     margin: 50px 0 0 50px;
-    background-color: #532f8;
+    background-color: #532f86;
     img {
         width: 100px !important;
     }
