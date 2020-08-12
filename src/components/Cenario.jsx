@@ -14,7 +14,7 @@ const CenarioStyle = styled.div`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: ${(props) => (props.noite ? '#1e5aa6' : '#308cff')};
+    background-color: ${(props) => (props.noite ? '#103563' : '#308cff')};
 `
 
 const FilmStyle = styled.div`
